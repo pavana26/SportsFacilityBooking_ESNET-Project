@@ -85,8 +85,4 @@ To setup the database, restore the database using the .bak file in the DatabaseS
 - Code reuse and encapsulation of DataGridView updating functions in BookingForm. 
 
 
-<<<<<<< HEAD
-=======
-## Known Bugs
-# ESNET_SportsFacility
->>>>>>> e6d34fa... first commit
+
