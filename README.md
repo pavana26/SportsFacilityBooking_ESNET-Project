@@ -1,11 +1,6 @@
 # SA46Team05A ESNET Project
 
-                                            SA46 TEAM 05A MEMBERS 
-                                            
-                                            BHAT PAVANA (A0180549X)
-                                            DIVYASHREE GOVINDAPPA (A0180537A)
-                                            GONG MEITING (A0180509E)
-                                            JACK SIM (A0072287Y)
+                                           
 
 
 This is a class project from the GDipSA program in ISS, NUS. The objective is to design and build a sports facility booking system that demonstrates an understanding of UI design, OOP concepts and database design.
